@@ -2,7 +2,7 @@
   <section class="container">
     <img src="../assets/img/logo.png" alt="Nuxt.js Logo" class="logo" />
     <h1 class="title">
-      USERS
+      Release-testing USERS
     </h1>
     <ul class="users">
       <li v-for="(user, index) in users" class="user">
